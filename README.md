@@ -102,3 +102,10 @@ Greedy → fast but not always correct
 A* → optimal and efficient
 
 The visualization makes these differences intuitive and easy to understand.
+
+📚 References
+https://www.pygame.org/docs/
+https://docs.python.org/3.12/
+👨‍💻 Authors
+Siva Sankar Reddy Veluri
+Gundavarapu Mounika Satya Vani
